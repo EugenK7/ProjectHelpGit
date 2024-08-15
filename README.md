@@ -50,9 +50,9 @@
 ## Основы работы с Git
 
 Для настройки необходимо указать электронную почту и имя (ник).
-Это можно сделать с помощью команд:
-git config --global user.name "имя"                   *(имя указывается в кавычках)*
-git config --global user.email username@yandex.ru
+   Это можно сделать с помощью команд:
+   git config --global user.name "имя"              *(имя указывается в кавычках)*
+   git config --global user.email username@yandex.ru
 
 Проверить что данные сохранились можно командами: 
 cat ~/.gitconfig
